@@ -51,3 +51,9 @@ Ads can be blocked with [uBlock Origin](https://ublockorigin.com/) in the web pl
 | [xManager](https://www.xmanagerapp.com/)* | Downloader for patched Spotify APKs (**closed source**), unlocks client-side premium features + extras.                         |
 
 \* Patches were no longer working, recommending ReVanced now because you can patch it again yourself if a new version comes out.
+
+## Reddit
+### Browser Extensions
+| Extension                                                                                   | Description                                                                                                                                           |
+|---------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [redditUntranslate](https://github.com/SeidSmatti/redditUntranslate) | Automatically disables the translation of posts and comments by removing the translation part of the URL that sometimes gets added by search engines. |
